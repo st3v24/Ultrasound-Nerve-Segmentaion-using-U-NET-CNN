@@ -7,7 +7,7 @@ This project implements semantic segmentation of ultrasound images to isolate an
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 
-- ## Introduction
+## Introduction
 
 Ultrasound imaging is a valuable tool in medical diagnostics, particularly for visualizing nerves such as the brachial plexus. This project aims to enhance the accuracy and efficiency of detecting and isolating brachial plexus nerves from ultrasound images using a U-Net CNN.
 
